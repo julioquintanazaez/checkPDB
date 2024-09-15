@@ -1,0 +1,1032 @@
+ATOM      5 LI   ALA A   1           0      73     -20  1.00  0.00          LI  
+ATOM      6 BE   ALA A   1         482     -53     -96  1.00  0.00          BE  
+ATOM      7 B    ALA A   1         483    -101     -22  1.00  0.00           B  
+ATOM      8 N    ALA A   1         484    -160    -475  1.00  0.00           N  
+ATOM      9 F    ALA A   1         485    -213    -401  1.00  0.00           F  
+ATOM     10 NA   ALA A   1         486    -263    -326  1.00  0.00          NA  
+ATOM     11 TA   ALA A   1         488    -318    -261  1.00  0.00          TA  
+ATOM     12 Au   ALA A   1         489    -360    -191  1.00  0.00          Au  
+ATOM     13 LI   ALA A   1        -514    -139    -515  1.00  0.00          LI  
+ATOM     14 BE   ALA A   1        -277     486    -241  1.00  0.00          BE  
+ATOM     15 B    ALA A   1         348    -500    -363  1.00  0.00           B  
+ATOM     16 N    ALA A   1         201    -134      13  1.00  0.00           N  
+ATOM     17 F    ALA A   1        -526     -85    -164  1.00  0.00           F  
+ATOM     18 NA   ALA A   1         -67     496     -52  1.00  0.00          NA  
+ATOM     19 TA   ALA A   1         -68     484    -441  1.00  0.00          TA  
+ATOM     20 Au   ALA A   1         516    -385     -38  1.00  0.00          Au  
+ATOM     21 LI   ALA A   1         517    -421    -487  1.00  0.00          LI  
+ATOM     22 BE   ALA A   1         519    -464    -412  1.00  0.00          BE  
+ATOM     23 B    ALA A   1         520    -508    -338  1.00  0.00           B  
+ATOM     24 N    ALA A   1         521     -22    -273  1.00  0.00           N  
+ATOM     25 F    ALA A   1         522     -71    -206  1.00  0.00           F  
+ATOM     26 NA   ALA A   1         523    -121    -134  1.00  0.00          NA  
+ATOM     27 TA   ALA A   1        -515    -489    -230  1.00  0.00          TA  
+ATOM     28 Au   ALA A   1         365    -335    -201  1.00  0.00          Au  
+ATOM     29 LI   ALA A   1         278    -364     281  1.00  0.00          LI  
+ATOM     30 BE   ALA A   1        -193     353    -291  1.00  0.00          BE  
+ATOM     31 B    ALA A   1        -508    -384    -498  1.00  0.00           B  
+ATOM     32 N    ALA A   1         406     267    -266  1.00  0.00           N  
+ATOM     33 F    ALA A   1         498    -498     270  1.00  0.00           F  
+ATOM     34 NA   ALA A   1         500     -10     199  1.00  0.00          NA  
+ATOM     35 TA   ALA A   1         501     -58     131  1.00  0.00          TA  
+ATOM     36 Au   ALA A   1         502    -108      60  1.00  0.00          Au  
+ATOM     37 LI   ALA A   1         503    -167     510  1.00  0.00          LI  
+ATOM     38 BE   ALA A   1         504    -219     436  1.00  0.00          BE  
+ATOM     39 B    ALA A   1         506    -274     365  1.00  0.00           B  
+ATOM     40 N    ALA A   1         471    -422      98  1.00  0.00           N  
+ATOM     41 F    ALA A   1         472    -178      30  1.00  0.00           F  
+ATOM     42 NA   ALA A   1         473    -140     238  1.00  0.00          NA  
+ATOM     43 TA   ALA A   1         475    -130     177  1.00  0.00          TA  
+ATOM     44 Au   ALA A   1         476    -119     119  1.00  0.00          Au  
+ATOM     45 LI   ALA A   1         477     -87     329  1.00  0.00          LI  
+ATOM     46 BE   ALA A   1         109     -15      61  1.00  0.00          BE  
+ATOM     47 B    ALA A   1         125     -54       9  1.00  0.00           B  
+ATOM     48 N    ALA A   1         245    -247     108  1.00  0.00           N  
+ATOM     49 F    ALA A   1         136    -170      43  1.00  0.00           F  
+ATOM     50 NA   ALA A   1        -401    -100      -6  1.00  0.00          NA  
+ATOM     51 TA   ALA A   1          85     -28      22  1.00  0.00          TA  
+ATOM     52 Au   ALA A   1         192    -156     228  1.00  0.00          Au  
+ATOM     53 LI   ALA A   1         161    -148     247  1.00  0.00          LI  
+ATOM     54 BE   ALA A   1         194    -120      22  1.00  0.00          BE  
+ATOM     55 B    ALA A   1        -375    -187    -488  1.00  0.00           B  
+ATOM     56 N    ALA A   1        -282     126     -32  1.00  0.00           N  
+ATOM     57 F    ALA A   1         116     -34      70  1.00  0.00           F  
+ATOM     58 NA   ALA A   1         153     -10     122  1.00  0.00          NA  
+ATOM     59 TA   ALA A   1         154     -26      98  1.00  0.00          TA  
+ATOM     60 Au   ALA A   1         154     -46      75  1.00  0.00          Au  
+ATOM     61 LI   ALA A   1         154     -62      52  1.00  0.00          LI  
+ATOM     62 BE   ALA A   1         155     -79      28  1.00  0.00          BE  
+ATOM     63 B    ALA A   1         155     -99       5  1.00  0.00           B  
+ATOM     64 N    ALA A   1         156    -113     155  1.00  0.00           N  
+ATOM     65 F    ALA A   1         123     -85     167  1.00  0.00           F  
+ATOM     66 NA   ALA A   1         123    -122      63  1.00  0.00          NA  
+ATOM     67 TA   ALA A   1         124     -94     123  1.00  0.00          TA  
+ATOM     68 Au   ALA A   1         124     -65      51  1.00  0.00          Au  
+ATOM     69 LI   ALA A   1         122     -82     151  1.00  0.00          LI  
+ATOM     70 BE   ALA A   1         114      49      95  1.00  0.00          BE  
+ATOM     71 B    ALA A   1         119    -160     117  1.00  0.00           B  
+ATOM     72 N    ALA A   1         148    -144      71  1.00  0.00           N  
+ATOM     73 F    ALA A   1         149    -157      46  1.00  0.00           F  
+ATOM     74 NA   ALA A   1         150    -173      22  1.00  0.00          NA  
+ATOM     75 TA   ALA A   1         150     -10     173  1.00  0.00          TA  
+ATOM     76 Au   ALA A   1         146    -100     133  1.00  0.00          Au  
+ATOM     77 LI   ALA A   1         151     -26     148  1.00  0.00          LI  
+ATOM     78 BE   ALA A   1         147    -114     108  1.00  0.00          BE  
+ATOM     79 B    ALA A   1         151     -45     126  1.00  0.00           B  
+ATOM     80 N    ALA A   1         147    -130      86  1.00  0.00           N  
+ATOM     81 F    ALA A   1         152     -63     101  1.00  0.00           F  
+ATOM     82 NA   ALA A   1         148    -143      61  1.00  0.00          NA  
+ATOM     83 TA   ALA A   1         148    -155      38  1.00  0.00          TA  
+ATOM     84 Au   ALA A   1         149    -172      17  1.00  0.00          Au  
+ATOM     85 LI   ALA A   1         150      -8     167  1.00  0.00          LI  
+ATOM     86 BE   ALA A   1         120    -154     112  1.00  0.00          BE  
+ATOM     87 B    ALA A   1         120    -108     138  1.00  0.00           B  
+ATOM     88 N    ALA A   1         120    -170     161  1.00  0.00           N  
+ATOM     89 F    ALA A   1        -437     359     -59  1.00  0.00           F  
+ATOM     90 NA   ALA A   1         142     -51      49  1.00  0.00          NA  
+ATOM     91 TA   ALA A   1         143     -68      26  1.00  0.00          TA  
+ATOM     92 Au   ALA A   1         143     -84     175  1.00  0.00          Au  
+ATOM     93 LI   ALA A   1         144    -103     152  1.00  0.00          LI  
+ATOM     94 BE   ALA A   1         144    -117     128  1.00  0.00          BE  
+ATOM     95 B    ALA A   1         144    -133     104  1.00  0.00           B  
+ATOM     96 N    ALA A   1         145    -146      80  1.00  0.00           N  
+ATOM     97 F    ALA A   1         118     -78     141  1.00  0.00           F  
+ATOM     98 NA   ALA A   1         118     -86      69  1.00  0.00          NA  
+ATOM     99 TA   ALA A   1          90    -153     111  1.00  0.00          TA  
+ATOM    100 Au   ALA A   1         118    -170       1  1.00  0.00          Au  
+ATOM    101 LI   ALA A   1         422     170    -449  1.00  0.00          LI  
+ATOM    102 BE   ALA A   1         104       7      76  1.00  0.00          BE  
+ATOM    103 B    ALA A   1         104       5      65  1.00  0.00           B  
+ATOM    104 N    ALA A   1         409     483    -312  1.00  0.00           N  
+ATOM    105 F    ALA A   1         410     527    -240  1.00  0.00           F  
+ATOM    106 NA   ALA A   1         411      44    -171  1.00  0.00          NA  
+ATOM    107 TA   ALA A   1         412      93    -104  1.00  0.00          TA  
+ATOM    108 Au   ALA A   1         414     151     -31  1.00  0.00          Au  
+ATOM    109 LI   ALA A   1         415     203    -481  1.00  0.00          LI  
+ATOM    110 BE   ALA A   1         416     251    -409  1.00  0.00          BE  
+ATOM    111 B    ALA A   1        -191      -4    -491  1.00  0.00           B  
+ATOM    112 N    ALA A   1         329     195    -168  1.00  0.00           N  
+ATOM    113 F    ALA A   1         330     144    -255  1.00  0.00           F  
+ATOM    114 NA   ALA A   1         331     116     -72  1.00  0.00          NA  
+ATOM    115 TA   ALA A   1         332      89    -340  1.00  0.00          TA  
+ATOM    116 Au   ALA A   1         333      63     -99  1.00  0.00          Au  
+ATOM    117 LI   ALA A   1         335      43    -429  1.00  0.00          LI  
+ATOM    118 BE   ALA A   1         336      36    -366  1.00  0.00          BE  
+ATOM    119 B    ALA A   1         337      19    -244  1.00  0.00           B  
+ATOM    120 N    ALA A   1         338     524    -459  1.00  0.00           N  
+ATOM    121 F    ALA A   1         339     461    -359  1.00  0.00           F  
+ATOM    122 NA   ALA A   1         341     427    -511  1.00  0.00          NA  
+ATOM    123 TA   ALA A   1         342     418    -450  1.00  0.00          TA  
+ATOM    124 Au   ALA A   1         343     403    -203  1.00  0.00          Au  
+ATOM    125 LI   ALA A   1         344     397    -142  1.00  0.00          LI  
+ATOM    126 BE   ALA A   1         345     393     -80  1.00  0.00          BE  
+ATOM    127 B    ALA A   1         347     339    -108  1.00  0.00           B  
+ATOM    128 N    ALA A   1         101     107      36  1.00  0.00           N  
+ATOM    129 F    ALA A   1         100      74      83  1.00  0.00           F  
+ATOM    130 NA   ALA A   1        -262    -355     -27  1.00  0.00          NA  
+ATOM    131 TA   ALA A   1          99      36      22  1.00  0.00          TA  
+ATOM    132 Au   ALA A   1           2      71      23  1.00  0.00          Au  
+ATOM    133 LI   ALA A   1          97      16      52  1.00  0.00          LI  
+ATOM    134 BE   ALA A   1          98      28      33  1.00  0.00          BE  
+ATOM    135 B    ALA A   1          98      43      15  1.00  0.00           B  
+ATOM    136 N    ALA A   1          98      57     128  1.00  0.00           N  
+ATOM    137 F    ALA A   1          98      69     109  1.00  0.00           F  
+ATOM    138 NA   ALA A   1          99      81      93  1.00  0.00          NA  
+ATOM    139 TA   ALA A   1          99      92      74  1.00  0.00          TA  
+ATOM    140 Au   ALA A   1          71      37     120  1.00  0.00          Au  
+ATOM    141 LI   ALA A   1          71     103      19  1.00  0.00          LI  
+ATOM    142 BE   ALA A   1          96     101     101  1.00  0.00          BE  
+ATOM    143 B    ALA A   1          71      99      86  1.00  0.00           B  
+ATOM    144 N    ALA A   1          71      87      92  1.00  0.00           N  
+ATOM    145 F    ALA A   1          72      81      30  1.00  0.00           F  
+ATOM    146 NA   ALA A   1          95      73      82  1.00  0.00          NA  
+ATOM    147 TA   ALA A   1          95      67      36  1.00  0.00          TA  
+ATOM    148 Au   ALA A   1          72      65      21  1.00  0.00          Au  
+ATOM    149 LI   ALA A   1          94      51      27  1.00  0.00          LI  
+ATOM    150 BE   ALA A   1          94      45     110  1.00  0.00          BE  
+ATOM    151 B    ALA A   1          72      44      96  1.00  0.00           B  
+ATOM    152 N    ALA A   1          73      39      49  1.00  0.00           N  
+ATOM    153 F    ALA A   1          73      32       3  1.00  0.00           F  
+ATOM    154 NA   ALA A   1          73      24      71  1.00  0.00          NA  
+ATOM    155 TA   ALA A   1          74      13      93  1.00  0.00          TA  
+ATOM    156 Au   ALA A   1          74      11      77  1.00  0.00          Au  
+ATOM    157 LI   ALA A   1          74     126      38  1.00  0.00          LI  
+ATOM    158 BE   ALA A   1          74     119     106  1.00  0.00          BE  
+ATOM    159 B    ALA A   1          75     113      45  1.00  0.00           B  
+ATOM    160 N    ALA A   1          75     108      98  1.00  0.00           N  
+ATOM    161 F    ALA A   1          76      96     105  1.00  0.00           F  
+ATOM    162 NA   ALA A   1          76      95      90  1.00  0.00          NA  
+ATOM    163 TA   ALA A   1          77      93      74  1.00  0.00          TA  
+ATOM    164 Au   ALA A   1          77      91      59  1.00  0.00          Au  
+ATOM    165 LI   ALA A   1          77      85     129  1.00  0.00          LI  
+ATOM    166 BE   ALA A   1          78      82      97  1.00  0.00          BE  
+ATOM    167 B    ALA A   1          78      81      80  1.00  0.00           B  
+ATOM    168 N    ALA A   1          79      55     113  1.00  0.00           N  
+ATOM    169 F    ALA A   1          80      52      80  1.00  0.00           F  
+ATOM    170 NA   ALA A   1          80      48      52  1.00  0.00          NA  
+ATOM    171 TA   ALA A   1        -368     201    -437  1.00  0.00          TA  
+ATOM    172 Au   ALA A   1         364     479    -251  1.00  0.00          Au  
+ATOM    173 LI   ALA A   1          -1     487    -178  1.00  0.00          LI  
+ATOM    174 BE   ALA A   1          70      12      28  1.00  0.00          BE  
+ATOM    175 B    ALA A   1        -264     285    -398  1.00  0.00           B  
+ATOM    176 N    ALA A   1        -192     423    -249  1.00  0.00           N  
+ATOM    177 F    ALA A   1        -257     441    -527  1.00  0.00           F  
+ATOM    178 NA   ALA A   1        -259     408    -155  1.00  0.00          NA  
+ATOM    179 TA   ALA A   1        -254     176    -223  1.00  0.00          TA  
+ATOM    180 Au   ALA A   1        -271     376     -15  1.00  0.00          Au  
+ATOM    181 LI   ALA A   1        -123      32    -274  1.00  0.00          LI  
+ATOM    182 BE   ALA A   1        -245     494    -186  1.00  0.00          BE  
+ATOM    183 B    ALA A   1        -246       6    -117  1.00  0.00           B  
+ATOM    184 N    ALA A   1        -247      56     -47  1.00  0.00           N  
+ATOM    185 F    ALA A   1        -249     105    -496  1.00  0.00           F  
+ATOM    186 NA   ALA A   1        -251     163    -421  1.00  0.00          NA  
+ATOM    187 TA   ALA A   1        -252     218    -354  1.00  0.00          TA  
+ATOM    188 Au   ALA A   1        -253     271    -283  1.00  0.00          Au  
+ATOM    189 LI   ALA A   1         -72     340    -181  1.00  0.00          LI  
+ATOM    190 BE   ALA A   1         -58     521    -220  1.00  0.00          BE  
+ATOM    191 B    ALA A   1         -56      83    -518  1.00  0.00           B  
+ATOM    192 N    ALA A   1         -70     129    -361  1.00  0.00           N  
+ATOM    193 F    ALA A   1          -7      38    -474  1.00  0.00           F  
+ATOM    194 NA   ALA A   1        -233     453    -114  1.00  0.00          NA  
+ATOM    195 TA   ALA A   1        -235     499     -43  1.00  0.00          TA  
+ATOM    196 Au   ALA A   1        -236      11    -493  1.00  0.00          Au  
+ATOM    197 LI   ALA A   1        -237      60    -418  1.00  0.00          LI  
+ATOM    198 BE   ALA A   1        -238     110    -350  1.00  0.00          BE  
+ATOM    199 B    ALA A   1        -239     168    -276  1.00  0.00           B  
+ATOM    200 N    ALA A   1        -241     225    -218  1.00  0.00           N  
+ATOM    201 F    ALA A   1         -66     311    -426  1.00  0.00           F  
+ATOM    202 NA   ALA A   1        -225     245    -187  1.00  0.00          NA  
+ATOM    203 TA   ALA A   1        -226     305    -118  1.00  0.00          TA  
+ATOM    204 Au   ALA A   1        -227     348     -50  1.00  0.00          Au  
+ATOM    205 LI   ALA A   1        -228     394    -499  1.00  0.00          LI  
+ATOM    206 BE   ALA A   1        -230     435    -422  1.00  0.00          BE  
+ATOM    207 B    ALA A   1        -231     472    -355  1.00  0.00           B  
+ATOM    208 N    ALA A   1        -232     520    -285  1.00  0.00           N  
+ATOM    209 F    ALA A   1        -559     338    -435  1.00  0.00           F  
+ATOM    210 NA   ALA A   1         -64     322    -402  1.00  0.00          NA  
+ATOM    211 TA   ALA A   1        -215     392    -154  1.00  0.00          TA  
+ATOM    212 Au   ALA A   1        -216     430     -85  1.00  0.00          Au  
+ATOM    213 LI   ALA A   1        -217     468     -11  1.00  0.00          LI  
+ATOM    214 BE   ALA A   1        -218     517    -463  1.00  0.00          BE  
+ATOM    215 B    ALA A   1        -220      27    -390  1.00  0.00           B  
+ATOM    216 N    ALA A   1        -221      76    -318  1.00  0.00           N  
+ATOM    217 F    ALA A   1        -222     131    -250  1.00  0.00           F  
+ATOM    218 NA   ALA A   1        -213     250    -139  1.00  0.00          NA  
+ATOM    219 TA   ALA A   1         -61     371    -348  1.00  0.00          TA  
+ATOM    220 Au   ALA A   1         -62     193    -286  1.00  0.00          Au  
+ATOM    221 LI   ALA A   1        -212       7    -254  1.00  0.00          LI  
+ATOM    222 BE   ALA A   1          -4     306    -391  1.00  0.00          BE  
+ATOM    223 B    ALA A   1        -211     272    -103  1.00  0.00           B  
+ATOM    224 N    ALA A   1          -8      38     -32  1.00  0.00           N  
+ATOM    225 F    ALA A   1           0     420    -508  1.00  0.00           F  
+ATOM    226 NA   ALA A   1        -207     501    -170  1.00  0.00          NA  
+ATOM    227 TA   ALA A   1        -206     491    -126  1.00  0.00          TA  
+ATOM    228 Au   ALA A   1        -201     277    -198  1.00  0.00          Au  
+ATOM    229 LI   ALA A   1        -196      92    -393  1.00  0.00          LI  
+ATOM    230 BE   ALA A   1         -12     423    -572  1.00  0.00          BE  
+ATOM    231 B    ALA A   1        -190     450     -57  1.00  0.00           B  
+ATOM    232 N    ALA A   1        -188     243    -127  1.00  0.00           N  
+ATOM    233 F    ALA A   1        -437       6    -174  1.00  0.00           F  
+ATOM    234 NA   ALA A   1        -176      49    -520  1.00  0.00          NA  
+ATOM    235 TA   ALA A   1        -177      96    -446  1.00  0.00          TA  
+ATOM    236 Au   ALA A   1        -178     155    -376  1.00  0.00          Au  
+ATOM    237 LI   ALA A   1        -179     207    -302  1.00  0.00          LI  
+ATOM    238 BE   ALA A   1        -181     258    -233  1.00  0.00          BE  
+ATOM    239 B    ALA A   1        -182     310    -162  1.00  0.00           B  
+ATOM    240 N    ALA A   1        -173     388     -95  1.00  0.00           N  
+ATOM    241 F    ALA A   1        -171      75    -344  1.00  0.00           F  
+ATOM    242 NA   ALA A   1          -7     459    -478  1.00  0.00          NA  
+ATOM    243 TA   ALA A   1          -8     417     -40  1.00  0.00          TA  
+ATOM    244 Au   ALA A   1        -166     377     -64  1.00  0.00          Au  
+ATOM    245 LI   ALA A   1          -9     356    -397  1.00  0.00          LI  
+ATOM    246 BE   ALA A   1         -10     294    -294  1.00  0.00          BE  
+ATOM    247 B    ALA A   1         -12     289    -232  1.00  0.00           B  
+ATOM    248 N    ALA A   1        -153     247    -442  1.00  0.00           N  
+ATOM    249 F    ALA A   1         -13     235    -317  1.00  0.00           F  
+ATOM    250 NA   ALA A   1         -14     231    -259  1.00  0.00          NA  
+ATOM    251 TA   ALA A   1        -379     561    -488  1.00  0.00          TA  
+ATOM    252 Au   ALA A   1        -370     499     -19  1.00  0.00          Au  
+ATOM    253 LI   ALA A   1         -15     184    -405  1.00  0.00          LI  
+ATOM    254 BE   ALA A   1         -41     354     -91  1.00  0.00          BE  
+ATOM    255 B    ALA A   1         -18     107    -306  1.00  0.00           B  
+ATOM    256 N    ALA A   1         -47     236    -456  1.00  0.00           N  
+ATOM    257 F    ALA A   1         -20      55    -332  1.00  0.00           F  
+ATOM    258 NA   ALA A   1         -21      48    -271  1.00  0.00          NA  
+ATOM    259 TA   ALA A   1         -56      58    -227  1.00  0.00          TA  
+ATOM    260 Au   ALA A   1         -24     503     -56  1.00  0.00          Au  
+ATOM    261 LI   ALA A   1         -25     492    -512  1.00  0.00          LI  
+ATOM    262 BE   ALA A   1         -26     482    -387  1.00  0.00          BE  
+ATOM    263 B    ALA A   1         -27     475    -320  1.00  0.00           B  
+ATOM    264 N    ALA A   1         -28     457    -143  1.00  0.00           N  
+ATOM    265 F    ALA A   1         -30     451     -82  1.00  0.00           F  
+ATOM    266 NA   ALA A   1         -31     410    -107  1.00  0.00          NA  
+ATOM    267 TA   ALA A   1         -32     401    -506  1.00  0.00          TA  
+ATOM    268 Au   ALA A   1         -33     396    -440  1.00  0.00          Au  
+ATOM    269 LI   ALA A   1         -34     382    -316  1.00  0.00          LI  
+ATOM    270 BE   ALA A   1         -36     367    -194  1.00  0.00          BE  
+ATOM    271 B    ALA A   1         -37     361    -138  1.00  0.00           B  
+ATOM    272 N    ALA A   1         -38     346    -471  1.00  0.00           N  
+ATOM    273 F    ALA A   1         -39     332    -346  1.00  0.00           F  
+ATOM    274 NA   ALA A   1         -40     290    -434  1.00  0.00          NA  
+ATOM    275 TA   ALA A   1         -42     276    -314  1.00  0.00          TA  
+ATOM    276 Au   ALA A   1         -43     256    -193  1.00  0.00          Au  
+ATOM    277 LI   ALA A   1         -44     249    -132  1.00  0.00          LI  
+ATOM    278 BE   ALA A   1        -113     591      -9  1.00  0.00          BE  
+ATOM    279 B    ALA A   1         -46     227    -403  1.00  0.00           B  
+ATOM    280 N    ALA A   1        -119     505    -555  1.00  0.00           N  
+ATOM    281 F    ALA A   1        -122     486    -398  1.00  0.00           F  
+ATOM    282 NA   ALA A   1        -125     463    -254  1.00  0.00          NA  
+ATOM    283 TA   ALA A   1         -51     109    -526  1.00  0.00          TA  
+ATOM    284 Au   ALA A   1         -52      90    -336  1.00  0.00          Au  
+ATOM    285 LI   ALA A   1          -3       3       3  1.00  0.00          LI  
+ATOM    286 BE   ALA A   1         142      -8      96  1.00  0.00          BE  
+ATOM    287 B    ALA A   1        -325      35    -212  1.00  0.00           B  
+ATOM    288 N    ALA A   1        -269     221    -301  1.00  0.00           N  
+ATOM    289 F    ALA A   1        -302     378     -78  1.00  0.00           F  
+ATOM    290 NA   ALA A   1        -304     413    -523  1.00  0.00          NA  
+ATOM    291 TA   ALA A   1        -310     456    -454  1.00  0.00          TA  
+ATOM    292 Au   ALA A   1        -315     504    -382  1.00  0.00          Au  
+ATOM    293 LI   ALA A   1        -316      14    -308  1.00  0.00          LI  
+ATOM    294 BE   ALA A   1        -319      65    -237  1.00  0.00          BE  
+ATOM    295 B    ALA A   1        -322     114    -169  1.00  0.00           B  
+ATOM    296 N    ALA A   1        -281       9     -18  1.00  0.00           N  
+ATOM    297 F    ALA A   1        -168     452    -410  1.00  0.00           F  
+ATOM    298 NA   ALA A   1         -88     217    -341  1.00  0.00          NA  
+ATOM    299 TA   ALA A   1        -214     452     -98  1.00  0.00          TA  
+ATOM    300 Au   ALA A   1         -84     174    -500  1.00  0.00          Au  
+ATOM    301 LI   ALA A   1         -83     165    -433  1.00  0.00          LI  
+ATOM    302 BE   ALA A   1        -196     309    -325  1.00  0.00          BE  
+ATOM    303 B    ALA A   1        -132      67    -460  1.00  0.00           B  
+ATOM    304 N    ALA A   1        -161     320     -23  1.00  0.00           N  
+ATOM    305 F    ALA A   1        -172     125    -263  1.00  0.00           F  
+ATOM    306 NA   ALA A   1        -424    -280     -83  1.00  0.00          NA  
+ATOM    307 TA   ALA A   1        -158     281    -173  1.00  0.00          TA  
+ATOM    308 Au   ALA A   1         -87     211    -278  1.00  0.00          Au  
+ATOM    309 LI   ALA A   1        -209     407    -324  1.00  0.00          LI  
+ATOM    310 BE   ALA A   1        -164     345    -269  1.00  0.00          BE  
+ATOM    311 B    ALA A   1        -461     558     -51  1.00  0.00           B  
+ATOM    312 N    ALA A   1        -243     122    -245  1.00  0.00           N  
+ATOM    313 F    ALA A   1        -101     337    -407  1.00  0.00           F  
+ATOM    314 NA   ALA A   1         -90     242     -71  1.00  0.00          NA  
+ATOM    315 TA   ALA A   1         -82     159    -374  1.00  0.00          TA  
+ATOM    316 Au   ALA A   1          97      35     104  1.00  0.00          Au  
+ATOM    317 LI   ALA A   1        -187      74    -472  1.00  0.00          LI  
+ATOM    318 BE   ALA A   1        -493     574    -505  1.00  0.00          BE  
+ATOM    319 B    ALA A   1        -170      69    -282  1.00  0.00           B  
+ATOM    320 N    ALA A   1        -160     315    -482  1.00  0.00           N  
+ATOM    321 F    ALA A   1         469     -51     -34  1.00  0.00           F  
+ATOM    322 NA   ALA A   1        -198     373      -9  1.00  0.00          NA  
+ATOM    323 TA   ALA A   1        -183     214    -476  1.00  0.00          TA  
+ATOM    324 Au   ALA A   1        -165     363    -462  1.00  0.00          Au  
+ATOM    325 LI   ALA A   1        -162     336    -215  1.00  0.00          LI  
+ATOM    326 BE   ALA A   1        -154     254    -507  1.00  0.00          BE  
+ATOM    327 B    ALA A   1        -147     190    -470  1.00  0.00           B  
+ATOM    328 N    ALA A   1        -141     133    -495  1.00  0.00           N  
+ATOM    329 F    ALA A   1        -137      99    -247  1.00  0.00           F  
+ATOM    330 NA   ALA A   1        -337     194    -155  1.00  0.00          NA  
+ATOM    331 TA   ALA A   1        -131      59    -395  1.00  0.00          TA  
+ATOM    332 Au   ALA A   1        -322      84    -375  1.00  0.00          Au  
+ATOM    333 LI   ALA A   1        -124     523    -234  1.00  0.00          LI  
+ATOM    334 BE   ALA A   1        -122     515    -175  1.00  0.00          BE  
+ATOM    335 B    ALA A   1        -116     445     -19  1.00  0.00           B  
+ATOM    336 N    ALA A   1        -111     426    -292  1.00  0.00           N  
+ATOM    337 F    ALA A   1        -107     405     -46  1.00  0.00           F  
+ATOM    338 NA   ALA A   1        -105     375    -257  1.00  0.00          NA  
+ATOM    339 TA   ALA A   1        -100     329    -288  1.00  0.00          TA  
+ATOM    340 Au   ALA A   1         -99     321    -225  1.00  0.00          Au  
+ATOM    341 LI   ALA A   1         -98     317    -161  1.00  0.00          LI  
+ATOM    342 BE   ALA A   1         -96     308    -106  1.00  0.00          BE  
+ATOM    343 B    ALA A   1         -93     282    -379  1.00  0.00           B  
+ATOM    344 N    ALA A   1         -92     265    -253  1.00  0.00           N  
+ATOM    345 F    ALA A   1         -81     152    -310  1.00  0.00           F  
+ATOM    346 NA   ALA A   1        -199     335    -472  1.00  0.00          NA  
+ATOM    347 TA   ALA A   1        -193     293    -171  1.00  0.00          TA  
+ATOM    348 Au   ALA A   1        -119     488    -451  1.00  0.00          Au  
+ATOM    349 LI   ALA A   1        -146     180    -342  1.00  0.00          LI  
+ATOM    350 BE   ALA A   1        -355     364    -251  1.00  0.00          BE  
+ATOM    351 B    ALA A   1        -138     113    -369  1.00  0.00           B  
+ATOM    352 N    ALA A   1        -340     220    -308  1.00  0.00           N  
+ATOM    353 F    ALA A   1        -134      72    -522  1.00  0.00           F  
+ATOM    354 NA   ALA A   1        -325     103    -543  1.00  0.00          NA  
+ATOM    355 TA   ALA A   1        -120     507    -113  1.00  0.00          TA  
+ATOM    356 Au   ALA A   1        -118     470    -265  1.00  0.00          Au  
+ATOM    357 LI   ALA A   1        -117     465    -204  1.00  0.00          LI  
+ATOM    358 BE   ALA A   1        -114     444    -479  1.00  0.00          BE  
+ATOM    359 B    ALA A   1        -113     438    -413  1.00  0.00           B  
+ATOM    360 N    ALA A   1        -112     436    -353  1.00  0.00           N  
+ATOM    361 F    ALA A   1        -106     389    -381  1.00  0.00           F  
+ATOM    362 NA   ALA A   1        -267     448    -328  1.00  0.00          NA  
+ATOM    363 TA   ALA A   1        -261      18    -447  1.00  0.00          TA  
+ATOM    364 Au   ALA A   1        -108     412    -166  1.00  0.00          Au  
+ATOM    365 LI   ALA A   1        -204     264    -425  1.00  0.00          LI  
+ATOM    366 BE   ALA A   1        -186     314     -90  1.00  0.00          BE  
+ATOM    367 B    ALA A   1        -487     170    -412  1.00  0.00           B  
+ATOM    368 N    ALA A   1         -76     104    -465  1.00  0.00           N  
+ATOM    369 F    ALA A   1        -140     120    -430  1.00  0.00           F  
+ATOM    370 NA   ALA A   1        -144     172    -280  1.00  0.00          NA  
+ATOM    371 TA   ALA A   1        -358     393    -395  1.00  0.00          TA  
+ATOM    372 Au   ALA A   1         146     -13     119  1.00  0.00          Au  
+ATOM    373 LI   ALA A   1         492    -238     -35  1.00  0.00          LI  
+ATOM    374 BE   ALA A   1        -202     149    -467  1.00  0.00          BE  
+ATOM    375 B    ALA A   1         275     514     -55  1.00  0.00           B  
+ATOM    376 N    ALA A   1        -159     302    -358  1.00  0.00           N  
+ATOM    377 F    ALA A   1        -248     380    -431  1.00  0.00           F  
+ATOM    378 NA   ALA A   1        -319      42     -62  1.00  0.00          NA  
+ATOM    379 TA   ALA A   1          96      83      61  1.00  0.00          TA  
+ATOM    380 Au   ALA A   1        -155     262     -53  1.00  0.00          Au  
+ATOM    381 LI   ALA A   1         247     -80       1  1.00  0.00          LI  
+ATOM    382 BE   ALA A   1         457    -425     -92  1.00  0.00          BE  
+ATOM    383 B    ALA A   1         -75      81    -277  1.00  0.00           B  
+ATOM    384 N    ALA A   1         141    -158     163  1.00  0.00           N  
+ATOM    385 F    ALA A   1        -102     350     -10  1.00  0.00           F  
+ATOM    386 NA   ALA A   1         265      40     416  1.00  0.00          NA  
+ATOM    387 TA   ALA A   1        -167     447    -349  1.00  0.00          TA  
+ATOM    388 Au   ALA A   1         105     119      31  1.00  0.00          Au  
+ATOM    389 LI   ALA A   1          95      71      67  1.00  0.00          LI  
+ATOM    390 BE   ALA A   1        -373     521    -185  1.00  0.00          BE  
+ATOM    391 B    ALA A   1        -126      12    -486  1.00  0.00           B  
+ATOM    392 N    ALA A   1        -125     526    -297  1.00  0.00           N  
+ATOM    393 F    ALA A   1         -89     232    -468  1.00  0.00           F  
+ATOM    394 NA   ALA A   1        -110     416    -228  1.00  0.00          NA  
+ATOM    395 TA   ALA A   1         -94     296    -504  1.00  0.00          TA  
+ATOM    396 Au   ALA A   1         -95     303     -42  1.00  0.00          Au  
+ATOM    397 LI   ALA A   1        -200     291     -48  1.00  0.00          LI  
+ATOM    398 BE   ALA A   1        -104     357     -75  1.00  0.00          BE  
+ATOM    399 B    ALA A   1        -156     273    -110  1.00  0.00           B  
+ATOM    400 N    ALA A   1        -376     538    -341  1.00  0.00           N  
+CONECT  285    5    0    0
+CONECT  285   30    0    0
+CONECT  285  100    0    0
+CONECT  285  111    0    0
+CONECT  285  130    0    0
+CONECT  285  180    0    0
+CONECT  285  218    0    0
+CONECT  285  225    0    0
+CONECT  285  226    0    0
+CONECT  285  227    0    0
+CONECT  285  228    0    0
+CONECT  285  229    0    0
+CONECT  285  230    0    0
+CONECT  285  231    0    0
+CONECT  285  232    0    0
+CONECT  285  233    0    0
+CONECT  285  234    0    0
+CONECT  285  235    0    0
+CONECT  285  236    0    0
+CONECT  285  237    0    0
+CONECT  285  238    0    0
+CONECT  285  239    0    0
+CONECT  285  240    0    0
+CONECT  285  241    0    0
+CONECT  285  242    0    0
+CONECT  285  243    0    0
+CONECT  285  244    0    0
+CONECT  285  245    0    0
+CONECT  285  246    0    0
+CONECT  285  247    0    0
+CONECT  285  248    0    0
+CONECT  285  249    0    0
+CONECT  285  250    0    0
+CONECT  285  251    0    0
+CONECT  285  252    0    0
+CONECT  285  253    0    0
+CONECT  285  254    0    0
+CONECT  285  255    0    0
+CONECT  285  256    0    0
+CONECT  285  257    0    0
+CONECT  285  258    0    0
+CONECT  285  259    0    0
+CONECT  285  260    0    0
+CONECT  285  261    0    0
+CONECT  285  262    0    0
+CONECT  285  263    0    0
+CONECT  285  264    0    0
+CONECT  285  265    0    0
+CONECT  285  266    0    0
+CONECT  285  267    0    0
+CONECT  285  268    0    0
+CONECT  285  269    0    0
+CONECT  285  270    0    0
+CONECT  285  271    0    0
+CONECT  285  272    0    0
+CONECT  285  273    0    0
+CONECT  285  274    0    0
+CONECT  285  275    0    0
+CONECT  285  276    0    0
+CONECT  285  277    0    0
+CONECT  285  278    0    0
+CONECT  285  279    0    0
+CONECT  285  280    0    0
+CONECT  285  281    0    0
+CONECT  285  282    0    0
+CONECT  285  283    0    0
+CONECT  285  284    0    0
+CONECT  285  297    0    0
+CONECT  285  298    0    0
+CONECT  285  299    0    0
+CONECT  285  300    0    0
+CONECT  285  301    0    0
+CONECT  285  302    0    0
+CONECT  285  303    0    0
+CONECT  285  304    0    0
+CONECT  285  305    0    0
+CONECT  285  307    0    0
+CONECT  285  308    0    0
+CONECT  285  309    0    0
+CONECT  285  310    0    0
+CONECT  285  311    0    0
+CONECT  285  312    0    0
+CONECT  285  313    0    0
+CONECT  285  314    0    0
+CONECT  285  315    0    0
+CONECT  285  317    0    0
+CONECT  285  318    0    0
+CONECT  285  319    0    0
+CONECT  285  320    0    0
+CONECT  285  322    0    0
+CONECT  285  323    0    0
+CONECT  285  324    0    0
+CONECT  285  325    0    0
+CONECT  285  326    0    0
+CONECT  285  327    0    0
+CONECT  285  328    0    0
+CONECT  285  329    0    0
+CONECT  285  330    0    0
+CONECT  285  331    0    0
+CONECT  285  332    0    0
+CONECT  285  333    0    0
+CONECT  285  334    0    0
+CONECT  285  335    0    0
+CONECT  285  336    0    0
+CONECT  285  337    0    0
+CONECT  285  338    0    0
+CONECT  285  339    0    0
+CONECT  285  340    0    0
+CONECT  285  341    0    0
+CONECT  285  342    0    0
+CONECT  285  343    0    0
+CONECT  285  344    0    0
+CONECT  285  345    0    0
+CONECT  285  346    0    0
+CONECT  285  347    0    0
+CONECT  285  348    0    0
+CONECT  285  349    0    0
+CONECT  285  350    0    0
+CONECT  285  351    0    0
+CONECT  285  352    0    0
+CONECT  285  353    0    0
+CONECT  285  354    0    0
+CONECT  285  355    0    0
+CONECT  285  356    0    0
+CONECT  285  357    0    0
+CONECT  285  358    0    0
+CONECT  285  359    0    0
+CONECT  285  360    0    0
+CONECT  285  361    0    0
+CONECT  285  364    0    0
+CONECT  285  365    0    0
+CONECT  285  366    0    0
+CONECT  285  367    0    0
+CONECT  285  368    0    0
+CONECT  285  369    0    0
+CONECT  285  370    0    0
+CONECT  285  371    0    0
+CONECT  285  374    0    0
+CONECT  285  376    0    0
+CONECT  285  378    0    0
+CONECT  285  380    0    0
+CONECT  285  383    0    0
+CONECT  285  385    0    0
+CONECT  285  387    0    0
+CONECT  285  390    0    0
+CONECT  285  391    0    0
+CONECT  285  392    0    0
+CONECT  285  393    0    0
+CONECT  285  394    0    0
+CONECT  285  395    0    0
+CONECT  285  396    0    0
+CONECT  285  397    0    0
+CONECT  285  398    0    0
+CONECT  285  399    0    0
+CONECT  285  400    0    0
+CONECT  321    6    0    0
+CONECT  321    7    0    0
+CONECT  321    8    0    0
+CONECT  321    9    0    0
+CONECT  321   10    0    0
+CONECT  321   11    0    0
+CONECT  321   12    0    0
+CONECT  233    6    0    0
+CONECT  233   20    0    0
+CONECT  233   33    0    0
+CONECT  233   58    0    0
+CONECT  233   72    0    0
+CONECT  233   76    0    0
+CONECT  233   90    0    0
+CONECT  233  104    0    0
+CONECT  233  182    0    0
+CONECT  233  194    0    0
+CONECT  233  202    0    0
+CONECT  233  211    0    0
+CONECT  233  289    0    0
+CONECT  234    7    0    0
+CONECT  234   21    0    0
+CONECT  234   34    0    0
+CONECT  234   59    0    0
+CONECT  234   73    0    0
+CONECT  234   78    0    0
+CONECT  234   91    0    0
+CONECT  234  105    0    0
+CONECT  234  183    0    0
+CONECT  234  195    0    0
+CONECT  234  203    0    0
+CONECT  234  212    0    0
+CONECT  234  290    0    0
+CONECT  235    8    0    0
+CONECT  235   22    0    0
+CONECT  235   35    0    0
+CONECT  235   60    0    0
+CONECT  235   74    0    0
+CONECT  235   80    0    0
+CONECT  235   92    0    0
+CONECT  235  106    0    0
+CONECT  235  184    0    0
+CONECT  235  196    0    0
+CONECT  235  204    0    0
+CONECT  235  213    0    0
+CONECT  235  291    0    0
+CONECT  236    9    0    0
+CONECT  236   23    0    0
+CONECT  236   36    0    0
+CONECT  236   61    0    0
+CONECT  236   75    0    0
+CONECT  236   82    0    0
+CONECT  236   93    0    0
+CONECT  236  107    0    0
+CONECT  236  185    0    0
+CONECT  236  197    0    0
+CONECT  236  205    0    0
+CONECT  236  214    0    0
+CONECT  236  292    0    0
+CONECT  237   10    0    0
+CONECT  237   24    0    0
+CONECT  237   37    0    0
+CONECT  237   62    0    0
+CONECT  237   77    0    0
+CONECT  237   83    0    0
+CONECT  237   94    0    0
+CONECT  237  108    0    0
+CONECT  237  186    0    0
+CONECT  237  198    0    0
+CONECT  237  206    0    0
+CONECT  237  215    0    0
+CONECT  237  293    0    0
+CONECT  238   11    0    0
+CONECT  238   25    0    0
+CONECT  238   38    0    0
+CONECT  238   63    0    0
+CONECT  238   79    0    0
+CONECT  238   84    0    0
+CONECT  238   95    0    0
+CONECT  238  109    0    0
+CONECT  238  187    0    0
+CONECT  238  199    0    0
+CONECT  238  207    0    0
+CONECT  238  216    0    0
+CONECT  238  294    0    0
+CONECT  239   12    0    0
+CONECT  239   26    0    0
+CONECT  239   39    0    0
+CONECT  239   64    0    0
+CONECT  239   81    0    0
+CONECT  239   85    0    0
+CONECT  239   96    0    0
+CONECT  239  110    0    0
+CONECT  239  188    0    0
+CONECT  239  200    0    0
+CONECT  239  208    0    0
+CONECT  239  217    0    0
+CONECT  239  295    0    0
+CONECT   31   13    0    0
+CONECT   31   17    0    0
+CONECT   31   20    0    0
+CONECT   31   21    0    0
+CONECT   31   22    0    0
+CONECT   31   23    0    0
+CONECT   31   24    0    0
+CONECT   31   25    0    0
+CONECT   31   26    0    0
+CONECT   31   27    0    0
+CONECT  304   13    0    0
+CONECT  304   32    0    0
+CONECT  304   56    0    0
+CONECT  304  372    0    0
+CONECT  386   14    0    0
+CONECT  387   14    0    0
+CONECT  382   15    0    0
+CONECT  383   15    0    0
+CONECT  383  223    0    0
+CONECT  372   16    0    0
+CONECT  251   16    0    0
+CONECT  251  146    0    0
+CONECT  228   17    0    0
+CONECT  228  192    0    0
+CONECT   30   18    0    0
+CONECT   30   19    0    0
+CONECT   30  321    0    0
+CONECT   30  386    0    0
+CONECT  370   18    0    0
+CONECT  371   19    0    0
+CONECT  305   27    0    0
+CONECT   32   28    0    0
+CONECT   32  321    0    0
+CONECT   32  382    0    0
+CONECT  303   28    0    0
+CONECT  381   29    0    0
+CONECT  308   29    0    0
+CONECT  308   54    0    0
+CONECT  373   31    0    0
+CONECT  374   31    0    0
+CONECT  374   51    0    0
+CONECT  374  363    0    0
+CONECT  172   32    0    0
+CONECT  172   70    0    0
+CONECT  172  101    0    0
+CONECT  172  104    0    0
+CONECT  172  105    0    0
+CONECT  172  106    0    0
+CONECT  172  107    0    0
+CONECT  172  108    0    0
+CONECT  172  109    0    0
+CONECT  172  110    0    0
+CONECT  172  112    0    0
+CONECT  172  113    0    0
+CONECT  172  114    0    0
+CONECT  172  115    0    0
+CONECT  172  116    0    0
+CONECT  172  117    0    0
+CONECT  172  118    0    0
+CONECT  172  119    0    0
+CONECT  172  120    0    0
+CONECT  172  121    0    0
+CONECT  172  122    0    0
+CONECT  172  123    0    0
+CONECT  172  124    0    0
+CONECT  172  125    0    0
+CONECT  172  126    0    0
+CONECT  172  127    0    0
+CONECT   48   33    0    0
+CONECT   48   34    0    0
+CONECT   48   35    0    0
+CONECT   48   36    0    0
+CONECT   48   37    0    0
+CONECT   48   38    0    0
+CONECT   48   39    0    0
+CONECT   48   40    0    0
+CONECT   48   41    0    0
+CONECT   48   42    0    0
+CONECT   48   43    0    0
+CONECT   48   44    0    0
+CONECT   48   45    0    0
+CONECT  297   40    0    0
+CONECT  297   55    0    0
+CONECT  298   41    0    0
+CONECT  299   42    0    0
+CONECT  300   43    0    0
+CONECT  301   44    0    0
+CONECT  302   45    0    0
+CONECT   89   46    0    0
+CONECT   89   50    0    0
+CONECT   89  373    0    0
+CONECT  218   46    0    0
+CONECT  218   48    0    0
+CONECT  218   70    0    0
+CONECT  218  133    0    0
+CONECT  218  134    0    0
+CONECT  218  135    0    0
+CONECT  218  136    0    0
+CONECT  218  137    0    0
+CONECT  218  138    0    0
+CONECT  218  139    0    0
+CONECT  218  147    0    0
+CONECT  218  174    0    0
+CONECT  218  288    0    0
+CONECT  218  362    0    0
+CONECT  218  386    0    0
+CONECT  102   47    0    0
+CONECT  102   58    0    0
+CONECT  102   59    0    0
+CONECT  102   60    0    0
+CONECT  102   61    0    0
+CONECT  102   62    0    0
+CONECT  102   63    0    0
+CONECT  102   64    0    0
+CONECT  102   66    0    0
+CONECT  102   67    0    0
+CONECT  102   68    0    0
+CONECT  312   47    0    0
+CONECT  312   49    0    0
+CONECT  312  172    0    0
+CONECT  312  375    0    0
+CONECT  312  381    0    0
+CONECT  306   48    0    0
+CONECT  306   55    0    0
+CONECT  142   49    0    0
+CONECT  320   50    0    0
+CONECT  388   51    0    0
+CONECT  286   52    0    0
+CONECT  286   54    0    0
+CONECT  286  381    0    0
+CONECT  307   52    0    0
+CONECT  384   53    0    0
+CONECT  385   53    0    0
+CONECT  180   56    0    0
+CONECT  180   89    0    0
+CONECT  180  102    0    0
+CONECT  180  129    0    0
+CONECT  180  171    0    0
+CONECT  180  172    0    0
+CONECT  180  173    0    0
+CONECT  180  174    0    0
+CONECT  180  177    0    0
+CONECT  180  178    0    0
+CONECT  180  287    0    0
+CONECT  180  289    0    0
+CONECT  180  290    0    0
+CONECT  180  291    0    0
+CONECT  180  292    0    0
+CONECT  180  293    0    0
+CONECT  180  294    0    0
+CONECT  180  295    0    0
+CONECT  180  296    0    0
+CONECT  131   57    0    0
+CONECT  131   90    0    0
+CONECT  131   91    0    0
+CONECT  131   92    0    0
+CONECT  131   93    0    0
+CONECT  131   94    0    0
+CONECT  131   95    0    0
+CONECT  131   96    0    0
+CONECT  227   57    0    0
+CONECT  227   69    0    0
+CONECT  227  103    0    0
+CONECT  227  182    0    0
+CONECT  227  183    0    0
+CONECT  227  184    0    0
+CONECT  227  185    0    0
+CONECT  227  186    0    0
+CONECT  227  187    0    0
+CONECT  227  188    0    0
+CONECT  227  189    0    0
+CONECT  146   65    0    0
+CONECT  146   69    0    0
+CONECT  226   65    0    0
+CONECT  226  288    0    0
+CONECT  313   66    0    0
+CONECT  314   67    0    0
+CONECT  315   68    0    0
+CONECT  129   71    0    0
+CONECT  129   76    0    0
+CONECT  129   78    0    0
+CONECT  129   80    0    0
+CONECT  129   82    0    0
+CONECT  129   83    0    0
+CONECT  129   84    0    0
+CONECT  129   85    0    0
+CONECT  129   87    0    0
+CONECT  129  372    0    0
+CONECT  311   71    0    0
+CONECT  128   72    0    0
+CONECT  128   73    0    0
+CONECT  128   74    0    0
+CONECT  128   75    0    0
+CONECT  128   77    0    0
+CONECT  128   79    0    0
+CONECT  128   81    0    0
+CONECT  128   88    0    0
+CONECT  147   86    0    0
+CONECT  318   86    0    0
+CONECT  318  101    0    0
+CONECT  318  287    0    0
+CONECT  318  362    0    0
+CONECT  259   87    0    0
+CONECT  284   88    0    0
+CONECT  375   89    0    0
+CONECT  375  175    0    0
+CONECT  140   97    0    0
+CONECT  317   97    0    0
+CONECT  317  131    0    0
+CONECT  150   98    0    0
+CONECT  319   98    0    0
+CONECT  319  210    0    0
+CONECT  319  316    0    0
+CONECT  389   99    0    0
+CONECT  390   99    0    0
+CONECT  288  102    0    0
+CONECT  288  179    0    0
+CONECT  174  103    0    0
+CONECT  174  128    0    0
+CONECT  174  131    0    0
+CONECT  174  132    0    0
+CONECT  174  140    0    0
+CONECT  174  141    0    0
+CONECT  174  142    0    0
+CONECT  174  143    0    0
+CONECT  174  144    0    0
+CONECT  174  145    0    0
+CONECT  174  146    0    0
+CONECT  174  148    0    0
+CONECT  174  149    0    0
+CONECT  174  150    0    0
+CONECT  174  151    0    0
+CONECT  174  152    0    0
+CONECT  174  153    0    0
+CONECT  174  154    0    0
+CONECT  174  155    0    0
+CONECT  174  156    0    0
+CONECT  174  157    0    0
+CONECT  174  158    0    0
+CONECT  174  159    0    0
+CONECT  174  160    0    0
+CONECT  174  161    0    0
+CONECT  174  162    0    0
+CONECT  174  163    0    0
+CONECT  174  164    0    0
+CONECT  174  165    0    0
+CONECT  174  166    0    0
+CONECT  174  167    0    0
+CONECT  174  168    0    0
+CONECT  174  169    0    0
+CONECT  174  170    0    0
+CONECT  174  316    0    0
+CONECT  174  379    0    0
+CONECT  174  388    0    0
+CONECT  174  389    0    0
+CONECT  248  112    0    0
+CONECT  248  219    0    0
+CONECT  252  113    0    0
+CONECT  252  296    0    0
+CONECT  349  114    0    0
+CONECT  349  223    0    0
+CONECT  349  382    0    0
+CONECT  350  115    0    0
+CONECT  351  116    0    0
+CONECT  256  117    0    0
+CONECT  352  118    0    0
+CONECT  353  119    0    0
+CONECT  353  177    0    0
+CONECT  354  120    0    0
+CONECT  355  121    0    0
+CONECT  356  122    0    0
+CONECT  357  123    0    0
+CONECT  358  124    0    0
+CONECT  359  125    0    0
+CONECT  360  126    0    0
+CONECT  361  127    0    0
+CONECT  361  201    0    0
+CONECT  322  128    0    0
+CONECT  322  193    0    0
+CONECT  362  129    0    0
+CONECT  323  132    0    0
+CONECT  289  133    0    0
+CONECT  290  134    0    0
+CONECT  291  135    0    0
+CONECT  292  136    0    0
+CONECT  293  137    0    0
+CONECT  294  138    0    0
+CONECT  295  139    0    0
+CONECT  241  140    0    0
+CONECT  241  220    0    0
+CONECT  324  141    0    0
+CONECT  310  142    0    0
+CONECT  325  143    0    0
+CONECT  247  144    0    0
+CONECT  326  145    0    0
+CONECT  296  147    0    0
+CONECT  327  148    0    0
+CONECT  328  149    0    0
+CONECT  255  150    0    0
+CONECT  329  151    0    0
+CONECT  330  152    0    0
+CONECT  331  153    0    0
+CONECT  332  154    0    0
+CONECT  332  178    0    0
+CONECT  333  155    0    0
+CONECT  334  156    0    0
+CONECT  335  157    0    0
+CONECT  336  158    0    0
+CONECT  337  159    0    0
+CONECT  338  160    0    0
+CONECT  339  161    0    0
+CONECT  340  162    0    0
+CONECT  341  163    0    0
+CONECT  342  164    0    0
+CONECT  343  165    0    0
+CONECT  344  166    0    0
+CONECT  276  167    0    0
+CONECT  345  168    0    0
+CONECT  346  169    0    0
+CONECT  347  170    0    0
+CONECT  377  171    0    0
+CONECT  209  173    0    0
+CONECT  376  175    0    0
+CONECT  363  176    0    0
+CONECT  309  176    0    0
+CONECT  309  375    0    0
+CONECT  348  179    0    0
+CONECT  221  181    0    0
+CONECT  378  181    0    0
+CONECT  244  189    0    0
+CONECT  231  190    0    0
+CONECT  231  194    0    0
+CONECT  231  195    0    0
+CONECT  231  196    0    0
+CONECT  231  197    0    0
+CONECT  231  198    0    0
+CONECT  231  199    0    0
+CONECT  231  200    0    0
+CONECT  231  201    0    0
+CONECT  367  190    0    0
+CONECT  367  306    0    0
+CONECT  240  191    0    0
+CONECT  240  209    0    0
+CONECT  240  211    0    0
+CONECT  240  212    0    0
+CONECT  240  213    0    0
+CONECT  240  214    0    0
+CONECT  240  215    0    0
+CONECT  240  216    0    0
+CONECT  240  217    0    0
+CONECT  365  191    0    0
+CONECT  364  192    0    0
+CONECT  364  222    0    0
+CONECT  393  193    0    0
+CONECT  232  202    0    0
+CONECT  232  203    0    0
+CONECT  232  204    0    0
+CONECT  232  205    0    0
+CONECT  232  206    0    0
+CONECT  232  207    0    0
+CONECT  232  208    0    0
+CONECT  232  210    0    0
+CONECT  366  209    0    0
+CONECT  369  219    0    0
+CONECT  368  220    0    0
+CONECT  391  221    0    0
+CONECT  392  221    0    0
+CONECT  394  222    0    0
+CONECT  395  224    0    0
+CONECT  396  224    0    0
+CONECT  379  286    0    0
+CONECT  380  286    0    0
+CONECT  171  306    0    0
+CONECT  225  363    0    0
+CONECT  225  373    0    0
+CONECT  225  388    0    0
+CONECT  229  377    0    0
+CONECT  397  377    0    0
+CONECT  399  379    0    0
+CONECT  316  384    0    0
+CONECT  398  384    0    0
+CONECT  400  389    0    0
+END
